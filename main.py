@@ -59,21 +59,22 @@ def obtener_contexto():
 def main():
     url = "https://www.youtube.com/watch?v=8_vRfMXWl98&t=444s"
     chat = ChatDownloader().get_chat(url)
-    
-    for chat_YT in chat:
-        message = chat_YT.get('message', '')
-        author_name = chat_YT.get('author', {}).get('name', 'Desconocido')
-        
-        if message:
-            chat_text = author_name + ": " + message
-            print(chat_text)
-            resultado = rule_resultado(message)
-            response = ollama_engine(chat_text, ely_personality_text, resultado)
-            
-            if response:
-                filtered_text = re.sub(r'<think>.*?</think>', '', response, flags=re.DOTALL).strip()
-                print("Ely VTuber:", filtered_text)
-                speak(filtered_text)
+
+    if chat:
+        for chat_YT in chat:
+            message = chat_YT.get('message', '')
+            author_name = chat_YT.get('author', {}).get('name', 'Desconocido')
+
+            if message:
+                chat_text = author_name + ": " + message
+                print(chat_text)
+                resultado = rule_resultado(message)
+                response = ollama_engine(chat_text, ely_personality_text, resultado)
+
+                if response:
+                    filtered_text = re.sub(r'<think>.*?</think>', '', response, flags=re.DOTALL).strip()
+                    print("Ely VTuber:", filtered_text)
+                    speak(filtered_text)
 
 # Función para obtener la respuesta de Ollama
 def ollama_engine(chat_text, personality_text, rule_resultado):

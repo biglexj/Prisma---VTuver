@@ -255,7 +255,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 **Repositorio:** [https://github.com/biglexj/Proyecto-Prisma---VTuver](https://github.com/biglexj/Proyecto-Prisma---VTuver)
 
-**Website:** [biglexj.net.pe](https://biglexj.net.pe)
+**Website:** [biglexj.com](https://biglexj.com)
 
 ### Canales Relacionados
 - [Biglex Dev](https://youtube.com/@biglexdev) - Contenido de desarrollo
@@ -296,6 +296,6 @@ Si te gusta este proyecto y quieres apoyar mi trabajo:
 
 ⭐ Dale una estrella al repo si te gusta el proyecto
 
-[🌐 Visitame](https://biglexj.net.pe) • [📧 Contacto](mailto:biglex.rv@gmail.com) • [📱 Telegram](https://t.me/biglexrv)
+[🌐 Visitame](https://biglexj.com) • [📧 Contacto](mailto:biglex.rv@gmail.com) • [📱 Telegram](https://t.me/biglexrv)
 
 </div>

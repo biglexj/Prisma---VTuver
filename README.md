@@ -216,6 +216,18 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 - [Biglex Dev](https://youtube.com/@biglexdev) - Contenido de desarrollo
 - [Ely Vtuber](https://youtube.com/@ely_vtuber) - Canal oficial de la VTuber
 
+Si te gusta este proyecto y quieres apoyar mi trabajo:
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/biglexj" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
+  </a>
+</p>
+
+---
+<div>
+
+
 ## 🙏 Agradecimientos
 
 *   [Google Gemini AI](https://ai.google.dev/) - Por la increíble API de IA
@@ -232,4 +244,8 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 **Hecho con ❤️ y ☕ por [Biglex J](https://github.com/biglexj)**
 
-*¡Dale ⭐ al repo si te gusta el proyecto!*
+⭐ Dale una estrella al repo si te gusta el proyecto
+
+[🌐 Visitame](https://biglexj.net.pe) • [📧 Contacto](mailto:biglex.rv@gmail.com) • [📱 Telegram](https://t.me/biglexrv)
+
+</div>

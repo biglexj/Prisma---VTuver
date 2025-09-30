@@ -296,6 +296,6 @@ Si te gusta este proyecto y quieres apoyar mi trabajo:
 
 ⭐ Dale una estrella al repo si te gusta el proyecto
 
-[🌐 Ver Sitio en Vivo](https://biglexj.net.pe) • [📧 Contacto](mailto:biglex.rv@gmail.com) • [📱 Telegram](https://t.me/biglexrv)
+[🌐 Visitame](https://biglexj.net.pe) • [📧 Contacto](mailto:biglex.rv@gmail.com) • [📱 Telegram](https://t.me/biglexrv)
 
 </div>

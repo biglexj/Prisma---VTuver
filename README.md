@@ -275,13 +275,27 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 - Asegúrate de cumplir con los [Términos de Servicio de YouTube](https://www.youtube.com/t/terms)
 - Requiere una GPU decente para modelos grandes (opcional, funciona en CPU)
 
+Si te gusta este proyecto y quieres apoyar mi trabajo:
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/biglexj" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
+  </a>
+</p>
+
+
 ## 🔄 Versiones
 
 - **v1.0.0** - Versión inicial con Ollama local
 - **v2.0.0** - Versión con Google Gemini API (rama separada)
 
 ---
+<div>
 
 **Hecho con ❤️ y ☕ por [Biglex J](https://github.com/biglexj)**
 
-*¡Dale ⭐ al repo si te gusta el proyecto!*
+⭐ Dale una estrella al repo si te gusta el proyecto
+
+[🌐 Ver Sitio en Vivo](https://biglexj.net.pe) • [📧 Contacto](mailto:biglex.rv@gmail.com) • [📱 Telegram](https://t.me/biglexrv)
+
+</div>

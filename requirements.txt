@@ -1,0 +1,10 @@
+flet
+python-dotenv
+google-generativeai
+rapidfuzz
+pytchat
+pyttsx3
+sounddevice
+torch --index-url https://download.pytorch.org/whl/cpu
+torchaudio --index-url https://download.pytorch.org/whl/cpu
+sounddevice
